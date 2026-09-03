@@ -1,0 +1,10 @@
+streamlit>=1.60
+yfinance>=0.2.40
+feedparser>=6.0
+plotly>=5.20
+pandas>=2.0
+requests>=2.31
+
+# Optional but recommended: gives smooth auto-refresh instead of a manual
+# button, and enables the "NEW" headline tags / toast notifications.
+streamlit-autorefresh>=1.0
